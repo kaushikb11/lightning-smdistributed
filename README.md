@@ -2,4 +2,4 @@
 
 ![mingpt](./minGPT/mingpt.jpg)
 
-Cloned [Sean's](https://github.com/SeanNaren/minGPT) code inspired by [Andrej's](https://github.com/karpathy/minGPT) and [William's](https://github.com/williamFalcon/minGPT) awesome code for testing.
+Submodule is [Sean's](https://github.com/SeanNaren/minGPT) code inspired by [Andrej's](https://github.com/karpathy/minGPT) and [William's](https://github.com/williamFalcon/minGPT) awesome code for testing.
