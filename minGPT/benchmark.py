@@ -80,7 +80,7 @@ if __name__ == '__main__':
     trainer = Trainer.from_argparse_args(
         args,
         max_epochs=1,
-        accelerator="smddp",
+        accelerator="ddp_sm",
         gradient_clip_val=1.0,
         callbacks=[lr_decay, CUDACallback()],
     )
